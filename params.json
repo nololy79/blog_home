@@ -1,6 +1,6 @@
 {
   "name": "Blog home",
   "tagline": "blog_home",
-  "body": "### Welcome to GitHub Pages.\r\nblog_home\r\n\r\n### Designer Templates\r\nblog_home\r\n\r\n### Creating pages manually\r\nblog_home\r\n### Authors and Contributors\r\nblog_home\r\n\r\n### Support or Contact\r\nblog_home",
+  "body": "> ### Welcome to GitHub Pages.> \r\nblog_home\r\n\r\n### Designer Templates\r\nblog_home\r\n\r\n### Creating pages manually\r\nblog_home\r\n### Authors and Contributors\r\nblog_home\r\n\r\n### Support or Contact\r\nblog_home",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
